@@ -1,4 +1,4 @@
-- nmae: install web component
+- name: install web component
   hosts: web
   become: yes
   tasks:
